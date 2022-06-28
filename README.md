@@ -1,2 +1,2 @@
-# owyand.github.io
-web portfolio hosted on github pages
+# my hosted website
+This is a web portfolio hosted on github pages which contains information about me, my skills and my goals
