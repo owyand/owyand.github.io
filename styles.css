@@ -1,5 +1,7 @@
 h1 {
   text-align: center;
   height: 150px;
-  width: 50%;
+  width: auto;
+  background-color: seagreen;
+  font-family: "Courier New", sans-serif;
 }
