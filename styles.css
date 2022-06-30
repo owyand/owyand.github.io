@@ -3,6 +3,6 @@ h1 {
   height: 150px;
   width: auto;
   background-color: rgba(60, 179, 113, .7);
-  text-align: super;
+  vertical-align: -50px;
   font-family: "Courier New", sans-serif;
 }
